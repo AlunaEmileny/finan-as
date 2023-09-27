@@ -17,5 +17,5 @@ public double getValor (){
 }
 
 public void setValor (double valor){
-    this.valor = valor;
+    this.valor = valor; 
 }
